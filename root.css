@@ -1,0 +1,22 @@
+:root {
+    --azul-claro: #72A0C3;
+    --azul-oscuro: #0C3197;
+    --morado: #753D9B;
+    --verde: #40C351;
+    --beige-claro: #F8F7F1;
+    --beige-oscuro: #787676;
+    --azul-linkedin: #0E76A8;
+    --gris: #2D2828;
+
+    /* ángulo de 225 grados */
+    --azul-1: #072D62;
+    /* 20% */
+    --azul-2: #0F5CC8;
+    /* 90% */
+    --azul-3: #0F5CC8;
+    /* 100% */
+}
+
+body {
+    font-family: Helvetica, 'Seoge UI', Arial;
+}
